@@ -1,0 +1,33 @@
+# Secrets — jangan pernah commit
+.env
+*.env
+!.env.example
+*credential*
+*api-key*
+*apikey*
+*.key
+*secret*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Output render & data lokal
+output/
+frames/
+tmp/
+*.png.tmp
+
+# Editor
+.vscode/
+.idea/
+
+# Log
+*.log

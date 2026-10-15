@@ -1,0 +1,33 @@
+{
+  "carousels": [
+    {
+      "id": "01",
+      "title": "Judul Carousel Contoh",
+      "theme": "gadget-masa-depan",
+      "source_credit": "Sumber: nama + link",
+      "slides": [
+        {
+          "num": 1,
+          "headline": "Hook: teks utama slide pertama",
+          "subline": "Teks pendukung (opsional)",
+          "caption_box": "Teks caption box bawah (opsional)",
+          "character": "kakek-penemu-open"
+        },
+        {
+          "num": 2,
+          "headline": "Isi: poin kedua",
+          "subline": "",
+          "caption_box": "",
+          "character": "kakek-penemu-open"
+        },
+        {
+          "num": 3,
+          "headline": "Penutup / CTA",
+          "subline": "",
+          "caption_box": "SELESAI",
+          "character": "kakek-penemu-open"
+        }
+      ]
+    }
+  ]
+}
